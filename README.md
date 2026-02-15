@@ -14,7 +14,7 @@
 <ul>
 <li>I'm passionate about mathematics, especially algorithms, linear algebra, graph theory, and geometry.
 <li>I enjoy participating in competitive programming contests and solving algorithmic problems.
-<li>I use Arch Linux and love experimenting with different technologies.
+<li>I use Arch Linux, Nix-OS and love experimenting with different technologies.
 </ol>
 </p>
 
